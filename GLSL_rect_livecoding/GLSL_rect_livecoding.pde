@@ -8,10 +8,7 @@
  —
  Using timestamp of a file to reload a fragment shader for «livecoding»
  —
- GLGraphics
- —
- Displacement code (noise) from 
- http://glsl.heroku.com/e#1413.0
+ GLGraphics 1.0.0
 
 */
 
