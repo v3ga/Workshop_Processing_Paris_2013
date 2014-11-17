@@ -1,7 +1,7 @@
 Processing Paris 2013 Masterclass
 ====================================
 
-Here are the sketches that were studied during [Processing Paris 2013 Masterclass](http://bit.ly/pparis2013_masterclass) They were were built for [Processing 1.5.1](http://processing.org/download) using the following libraries: 
+Here are the sketches that were studied during [Processing Paris 2013 Masterclass](http://bit.ly/pparis2013_masterclass).They were were built for [Processing 1.5.1](http://processing.org/download) using the following libraries: 
 
 * [http://glgraphics.sourceforge.net](GLGraphics 1.0.0)
 * [http://gsvideo.sourceforge.net](GSVideo)
