@@ -12,6 +12,8 @@ Here are the sketches that were studied during [Processing Paris 2013 Masterclas
 ![GLSL_grid_displacement](http://v3ga.github.io/Images/Workshop_Processing_Paris_2013/GLSL_grid_displacement.png)
 ![GLSL_spherical_harmonics_cubemap](http://v3ga.github.io/Images/Workshop_Processing_Paris_2013/GLSL_spherical_harmonics_cubemap.png)
 ![GLSL_torus_knot_lights_dither](http://v3ga.github.io/Images/Workshop_Processing_Paris_2013/GLSL_torus_knot_lights_dither.png)
+![GL_torus_lights](http://v3ga.github.io/Images/Workshop_Processing_Paris_2013/GL_torus_lights.png)
+
 
 
 
