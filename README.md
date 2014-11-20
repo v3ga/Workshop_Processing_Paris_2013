@@ -1,7 +1,15 @@
 Processing Paris 2013 Masterclass
 ====================================
 
-Here are the sketches that were studied during [Processing Paris 2013 Masterclass](http://bit.ly/pparis2013_masterclass). They were were built for [Processing 1.5.1](http://processing.org/download) using the following libraries: 
+http://www.processingparis.org/2013/03/processing-paris-workshops-2013-masterclass/
+
+"The masterclass for this year will be dedicated to learning and applying shader techniques with Processing. Used extensively for real-time graphics applications, shaders have evolved rapidly over the last few years and have have been implemented in the latest version of Processing with GLSL shaders and a new PShader class thanks to work and development from Andreas Colubri. 
+Shaders can be used in many different ways. This workshop will explore during the three days a variety of applications : from generating 2D images to 3D models as well as possible cellular automata systems."
+
+![Poster](http://v3ga.github.io/Images/Workshop_Processing_Paris_2013/AffichePParis2013_WWeb-689x1024.jpg)
+
+## Libraries
+The sketches were were built for [Processing 1.5.1](http://processing.org/download) using the following libraries: 
 
 * [GLGraphics 1.0.0](http://glgraphics.sourceforge.net)
 * [GSVideo](http://gsvideo.sourceforge.net)
